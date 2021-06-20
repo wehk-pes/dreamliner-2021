@@ -1,8 +1,8 @@
 # 下載連結 Download links
 Last built: 2021-06-20 (1.0 r1)
 
-需要下載全部4部分
-You need to download all 4 parts to
+需要下載全部4部分，以及需要「EvoWeb Patch 2021 5.0」（可到 https://www.facebook.com/wehk.hk/posts/342452020599525 查詢及下載）<br>
+You need to download all 4 parts to, and install EvoWeb Patch 2021 5.0 before installing this mod.
 
 - 第１部分 Part 1:<br>https://mega.nz/file/TXoVUSzC#iyJhGp21f11MG7MBXDSLGuivUDfOwz_XwVkQz716omg
 - 第２部分 Part 2:<br>https://mega.nz/file/bbhUka7K#EMDqKIY--zwZA4dvpgf3RSUEHBju0z64hj3wlJ97Ghs
