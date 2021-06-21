@@ -25,9 +25,9 @@ You need to download all 4 parts to, and install EvoWeb Patch 2021 5.0 before in
 使用「選擇性附加內容」前，所先安裝以上４部分。
 
 - 廣東話譯名 (Cantonese translation)：<br>
-https://mega.nz/file/bagCDQBB#mOcu5WqKODRNU9HZRDLXcFMpzcH2OMsow75Oauqa3IE
+https://mega.nz/file/3LoWyKgQ#dv9N4NfA0PxP2bYtmC66FnhT28PEf-EVCPXUwWlLjGs
 - 香港聯賽20隊（8隊港超 + 12隊港甲球隊放喺港超） (Hong Kong league with 20 teams)：<br>
-https://mega.nz/file/eCAxTIaB#ZO45_woPtjE_bqUdXvv69EXqaFNORr0NBbcPsZc0Ruw<br>
+https://mega.nz/file/6ThEFCJD#05R1RlbFCM7MaDj892Sm8l5TaRkke986eon2G_AXzOg<br>
 （如果同時使用「廣東話譯名」及「香港聯賽20隊」，請先裝上「廣東話譯名」，之後再貼上「香港聯賽20隊」中 `livecpk (Please use this for Cantonese)`的內容到你的livecpk。)
 
 # 如何安裝 How to install？
