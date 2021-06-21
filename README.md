@@ -7,20 +7,23 @@ You need to download all 4 parts to, and install EvoWeb Patch 2021 5.0 before in
 (每一部份只需選擇其中一個載點下載)
 (You only need to download one of the 2 mirrors for each part.)
 
-- 第１部分 Part 1:<br>
+- **第１部分 Part 1:**<br>
   載點1 (Mega): https://mega.nz/file/TXoVUSzC#iyJhGp21f11MG7MBXDSLGuivUDfOwz_XwVkQz716omg<br>
-  <!-- 載點2 (MediaFire): -->
-- 第２部分 Part 2:<br>
+  載點2 (MediaFire): https://www.mediafire.com/file/nzwawypw3dswoh5/EvoWeb_Patch_%252B_WEHK_1.0_r1_20210620.part1.rar/file
+- **第２部分 Part 2:**<br>
   載點1 (Mega): https://mega.nz/file/bbhUka7K#EMDqKIY--zwZA4dvpgf3RSUEHBju0z64hj3wlJ97Ghs<br>
   載點2 (MediaFire): https://www.mediafire.com/file/8vy9flc26dyy48v/EvoWeb_Patch_%252B_WEHK_1.0_r1_20210620.part2.rar/file
-- 第３部分 Part 3:<br>
+- **第３部分 Part 3:**<br>
   載點1 (Mega): https://mega.nz/file/Xe4V1IoB#SNErkG_jVuIUCuzNqvecfsu40U34t0i7yyeTzvL9L5k<br>
-  <!-- 載點2 (MediaFire): -->
-- 第４部分 Part 4:<br>
+  載點2 (MediaFire): https://www.mediafire.com/file/ydljasun524mqvi/EvoWeb_Patch_%252B_WEHK_1.0_r1_20210620.part3.rar/file
+- **第４部分 Part 4:**<br>
   載點1 (Mega): https://mega.nz/file/2DwxBa6T#RNmbwDcqAV3Lrn0BQ3iqVWoknU4Gr8assmSVvmkI_1E<br>
   載點2 (MediaFire): https://www.mediafire.com/file/g6vth06aihj2wio/EvoWeb_Patch_%252B_WEHK_1.0_r1_20210620.part4.rar/file
 
-選擇性附加內容 Optional content：
+**選擇性附加內容 Optional content：**
+
+使用「選擇性附加內容」前，所先安裝以上４部分。
+
 - 廣東話譯名 (Cantonese translation)：<br>
 https://mega.nz/file/bagCDQBB#mOcu5WqKODRNU9HZRDLXcFMpzcH2OMsow75Oauqa3IE
 - 香港聯賽20隊（8隊港超 + 12隊港甲球隊放喺港超） (Hong Kong league with 20 teams)：<br>
@@ -32,10 +35,11 @@ https://mega.nz/file/eCAxTIaB#ZO45_woPtjE_bqUdXvv69EXqaFNORr0NBbcPsZc0Ruw<br>
 (English below)
 
 1. 先安裝「EvoWeb Patch 2021 5.0」
-2. 與「EvoWeb Patch 2021 5.0」之安裝方法相似：
-    a) 如本身你的Sider資料夾中的「livecpk」有舊版的「EvoWeb Patch + WEHK」內容，請先刪除。
-    b) 把最新下載得來的「livecpk」中的內容貼到你的Sider的「livecpk」資料夾內。
-3. 確保你的sider.ini中已有以下內容（如沒有請增加），並且在EvoWeb Patch的行數之上：
+2. 與「EvoWeb Patch 2021 5.0」之安裝方法相似：<br>
+    a 如本身你的Sider資料夾中的「`livecpk`」有舊版的「`EvoWeb Patch + WEHK`」內容，請先刪除。<br>
+    *（註：安裝「選擇性附加內容」時並不需要刪除「`EvoWeb Patch + WEHK`」，僅安裝主要部分時才須刪除。）*<br>
+    b) 把最新下載得來的「`livecpk`」中的內容貼到你的Sider的「livecpk」資料夾內。
+3. 確保你的`sider.ini`中已有以下內容（如沒有請增加），並且在EvoWeb Patch的行數之上：
 
 ```
 cpk.root = ".\livecpk\EvoWeb Patch + WEHK\Adboards"
@@ -65,16 +69,16 @@ cpk.root = ".\livecpk\EvoWeb Patch\Graphics"
 cpk.root = ".\livecpk\EvoWeb Patch\Kits"
 ```
 
-4. 把下載得來的「EDIT00000000」放到「文件\KONAMI\eFootball PES 2021 SEASON UPDATE\<一抽數字>\save」中
+4. 把下載得來的「`EDIT00000000`」放到「`文件\KONAMI\eFootball PES 2021 SEASON UPDATE\<一抽數字>\save`」中
 5. 執行Sider開始遊戲
 
 **How to install? (English)**
 
 1. Install "EvoWeb Patch 2021 5.0" first.
 2. Similar to "EvoWeb Patch 2021 5.0" installing instruction
-    a) Remove old "EvoWeb Patch + WEHK" folder in your Sider's "livecpk" folder if any.
-    b) Then, copy the content of "livecpk" folder to your "livecpk" folder in Sider.
-3. Make sure the following lines are added in your "sider.ini". These lines should be put ABOVE the lines of EvoWeb Patch.
+    a) Remove old `EvoWeb Patch + WEHK` folder in your Sider's `livecpk` folder if any.
+    b) Then, copy the content of `livecpk` folder to your `livecpk` folder in Sider.
+3. Make sure the following lines are added in your `sider.ini`. These lines should be put ABOVE the lines of EvoWeb Patch.
 ```
 cpk.root = ".\livecpk\EvoWeb Patch + WEHK\Adboards"
 cpk.root = ".\livecpk\EvoWeb Patch + WEHK\Database"
@@ -102,7 +106,7 @@ cpk.root = ".\livecpk\EvoWeb Patch\Faces"
 cpk.root = ".\livecpk\EvoWeb Patch\Graphics"
 cpk.root = ".\livecpk\EvoWeb Patch\Kits"
 ```
-4. Add the EDIT00000000 file to Documents\KONAMI\eFootball PES 2021 SEASON UPDATE\Your number\save
+4. Add the `EDIT00000000` file to `Documents\KONAMI\eFootball PES 2021 SEASON UPDATE\<Your number>\save`
 5. Start Sider and play the game
 
 # Credits
