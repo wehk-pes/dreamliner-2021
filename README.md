@@ -11,14 +11,14 @@ You need to download all 4 parts to, and install EvoWeb Patch 2021 5.0 before in
   載點1 (Mega): https://mega.nz/file/TXoVUSzC#iyJhGp21f11MG7MBXDSLGuivUDfOwz_XwVkQz716omg<br>
   <!-- 載點2 (MediaFire): -->
 - 第２部分 Part 2:<br>
-  載點1 Mega: https://mega.nz/file/bbhUka7K#EMDqKIY--zwZA4dvpgf3RSUEHBju0z64hj3wlJ97Ghs<br>
-  <!-- 載點2 MediaFire: -->
+  載點1 (Mega): https://mega.nz/file/bbhUka7K#EMDqKIY--zwZA4dvpgf3RSUEHBju0z64hj3wlJ97Ghs<br>
+  載點2 (MediaFire): https://www.mediafire.com/file/8vy9flc26dyy48v/EvoWeb_Patch_%252B_WEHK_1.0_r1_20210620.part2.rar/file
 - 第３部分 Part 3:<br>
-  載點1 Mega: https://mega.nz/file/Xe4V1IoB#SNErkG_jVuIUCuzNqvecfsu40U34t0i7yyeTzvL9L5k<br>
-  <!-- 載點2 MediaFire: -->
+  載點1 (Mega): https://mega.nz/file/Xe4V1IoB#SNErkG_jVuIUCuzNqvecfsu40U34t0i7yyeTzvL9L5k<br>
+  <!-- 載點2 (MediaFire): -->
 - 第４部分 Part 4:<br>
-  載點1 Mega: https://mega.nz/file/2DwxBa6T#RNmbwDcqAV3Lrn0BQ3iqVWoknU4Gr8assmSVvmkI_1E<br>
-  <!-- 載點2 MediaFire: -->
+  載點1 (Mega): https://mega.nz/file/2DwxBa6T#RNmbwDcqAV3Lrn0BQ3iqVWoknU4Gr8assmSVvmkI_1E<br>
+  載點2 (MediaFire): https://www.mediafire.com/file/g6vth06aihj2wio/EvoWeb_Patch_%252B_WEHK_1.0_r1_20210620.part4.rar/file
 
 選擇性附加內容 Optional content：
 - 廣東話譯名 (Cantonese translation)：<br>
@@ -104,3 +104,76 @@ cpk.root = ".\livecpk\EvoWeb Patch\Kits"
 ```
 4. Add the EDIT00000000 file to Documents\KONAMI\eFootball PES 2021 SEASON UPDATE\Your number\save
 5. Start Sider and play the game
+
+# Credits
+感謝以下人士容許使用他們所製作之內容。
+Credits and acknowledgement:
+
+````
+* EvoWeb Patch (EvoWeb Patch has to be downloaded and installed separately)
+  * EvoWeb Patch:
+    by @Cesc Fabregas, @Hawke, @Hoppus117, @mota10, @Nemanja, @scottish_carson, @ziyech.2304
+    * Original credit list from EvoWeb Patch:
+      @NFS_FM (Some Logos)
+      all Face & Tattoo makers
+      @juce & nesa24 (Sider)
+      @zlac (Kitstudio)
+      @shawminator (CGPE)
+      @MFZ69 (UniNameFontPermissions Tool)
+      @SiuMing (Web Ted Editor)
+      @Maritimo (Some kit textures)
+      @Jhoow Gamer (Some kit Textures)
+      Aerial Edson (Some kit textures)
+      Kits for WePes (Some kit Textures)
+      ICMP Team (Other European data, Minifaces & some kits
+    @gabriele-150115 (Boot assignments)
+* ICMP Team
+    * Credit list from ICMP Patch 2021 V1.0:
+      by @ninet @Albiceleste1994 @MFZ69 @Tony_yeboah @Adrian2780 & special partner @lobosemillas
+* Adboard
+    @klerry (Technical assistance provided)
+* Competition and club logos
+    @NFS_FM (mainly based)
+* J1 & J2 kits:
+  JPESEDIT
+  waserin (Twitter: @waserin_PES)
+  零音(Rain) (Twitter: @rainP0322)
+  ta-ka71_WE (Twitter: @AbRockyFalls_WE)
+  J.KIT_EDITOR (Twitter: @J_kit_editor)
+  Ludy (Twitter: @LudySegawa)
+* J3 League (not yet included):
+  OF Data supervision
+    @YWeml
+  OF Data production
+    @YWeml
+    @Trys315
+    @you_we2019
+  Kit
+    @YWeml
+    @wulong731
+    @waserin_PES
+  Club Emblem img
+    @wulong731
+    @you_we2019
+  Press boards img
+    @YWeml
+    @waserin_PES
+    @you_we2019
+  Manager img
+    @you_we2019
+  special thanks
+    @meowning_123
+    @SiuMing_PES
+  Introduction
+    https://pesjc.net
+* J.League kits font
+  @muham_isatsu
+
+----
+
+WEHK team members:
+@Mushroom_HK (https://www.facebook.com/MMfacemaker)
+@SiuMing (https://twitter.com/SiuMing_PES)
+jason y
+brendan
+````
